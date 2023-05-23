@@ -10,6 +10,6 @@ I’m Android Developer and exploring Cyber Security
 
 <br>
 
- <img src="https://komarev.com/ghpvc/?username=app-src&label=visitors%20" alt="Yashsajwan" />
+ <img src="https://komarev.com/ghpvc/?username=app-src&label=visitors%20" alt="app-src" />
  
 
