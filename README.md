@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Developer and exploring Cyber Security
+I’m an Android Engineer and Backend developer, I'm also exploring Cyber Security
 
 <h1>Connect with Me</h1>
 <p align="left">
