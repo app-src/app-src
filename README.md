@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Android Developer and exploring Cyber Security
+I’m Developer and exploring Cyber Security
 
 <h1>Connect with Me</h1>
 <p align="left">
